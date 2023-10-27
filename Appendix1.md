@@ -36,3 +36,33 @@ Affiliations: Department of Computer Science, University of Agriculture, Faisala
 Abstract: Cloud computing has become a popular paradigm for delivering computing resources over the internet. However, the shared nature of cloud resources and the lack of control over the underlying infrastructure raise concerns about data privacy and security. In this paper, we propose a Multi-Layer Token Framework for Data Protection in Cloud Computing (MLTF-DP) that provides a comprehensive approach to data protection. The framework consists of multiple layers of tokens that are used to authenticate users, authorize access to resources, and encrypt data. We also present a case study to demonstrate the effectiveness of the proposed framework. Our results show that the MLTF-DP framework can provide strong data protection in cloud computing environments.
 Publication details: Technical Journal, University of Engineering and Technology (UET) Taxila, Pakistan Vol. 28 No. 1-2023
 ISSN: 1813-1786 (Print) 2313-7770 (Online)
+
+# Identity and Access Management (IAM) In Cloud [ Parth Patel- 2181477 ]
+Title: Identity and Access Management as Security-as-a-Service from Clouds
+Author(s): Deepak H
+Affiliation(s): Not specified
+Abstract: This article discusses the benefits of implementing Identity and Access Management (IAM) as a cloud service and provides a proof-of-concept evaluation. The primary concerns of IAM in a cloud environment are addressed, and the advantages of using IAM-as-a-Service (IAM-aaS) are highlighted. The article concludes with a discussion of the results of the proof-of-concept evaluation, which demonstrate the feasibility and effectiveness of IAM-aaS.
+Publication details:
+- Title: Identity and Access Management as Security-as-a-Service from Clouds
+- Author(s): Deepak H
+- Publication: Procedia Computer Science
+- Volume: 79
+- Year: 2016
+- Pages: 170-174
+- ISSN: 1877-0509
+- DOI: 10.1016/j.procs.2016.03.117
+- Publisher: Elsevier B.V.
+- License: CC BY-NC-ND 4.0
+- Available online at: www.sciencedirect.com/science/article/pii/S1877050916301175
+
+  # Cloud-Native Application Security [ Riddhi Parmar- 1977020 ]
+  Title: Cloud-Native Application Security
+  Authors: Maxim Chernyshev, Zubair Baig, Sherali Zeadally
+  Affiliations: Maxim Chernyshev and Zubair Baig, Deakin University
+  Sherali Zeadally, University of Kentucky
+  Abstract: Insecure cloud-native applications (CNAs) are at high risk of security breaches due to their dynamic nature and complex threat landscape. We       evaluate current security techniques, their pros and cons in CNAs, and identify future research opportunities. Application and API security compromises      are a leading cause of modern data breaches. Many contemporary applications, often built as cloud-native applications (CNAs) using Microservices and         DevOps methodologies, face a growing array of threats, including automated attacks, DDoS attacks, and exploitation of design and code weaknesses.          
+  Developers can mitigate these risks through secure coding practices, proper configuration, and the integration of robust security measures into their 
+  software development lifecycles (SDLCs). Application developers often struggle to strike a balance between speed and security, especially when lacking 
+  security expertise. This is further complicated by heavy reliance on open source dependencies, which can make up a substantial portion, up to 80%, of the 
+  application's codebase in many CNAs.
+  Publication details: Published in: Computer ( Volume: 54, Issue: 11, November 2021), Page(s): 47-57, Date of Publication: 25 October 2021
