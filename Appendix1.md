@@ -27,7 +27,7 @@ This is information about research papers that are used in the preparation of in
 # Zero Trust Security in Cloud Computing [ Khyati Parmar - 2308312 ]
    Title: Establishing a Zero Trust Strategy in Cloud Computing Environment
    Authors: S. S. S. Sowmya, K. S. Easwarakumar, and S. S. Sreeja
-   Affiliations: Department of Computer Science and Engineering, Amrita School of Engineering, Coimbatore, India
+  Affiliations: Department of Computer Science and Engineering, Amrita School of Engineering, Coimbatore, India
    Abstract: Cloud computing has become an essential technology for businesses and organizations to store, process, and manage data. However, security and      privacy challenges have emerged as major concerns in cloud computing. Traditional trust management mechanisms are no longer sufficient to address these      challenges. This paper proposes a conceptual zero trust strategy for cloud services, exploring the importance and challenges of trust establishment in       cloud computing. The proposed strategy is based on the principle of "never trust, always verify," and it involves continuous verification of all users,      devices, and applications accessing cloud services. The paper also discusses the benefits of establishing trust in cloud services and how it can be       
    achieved.
    Publication details: 2020 International Conference on Computer Communication and Informatics (ICCCI -2020), Jan. 22 – 24, 2020, Coimbatore, INDIA. ISBN:     978-1-7281-4514-3/20/$31.00 ©2020 IEEE.
@@ -64,7 +64,7 @@ This is information about research papers that are used in the preparation of in
    License: CC BY-NC-ND 4.0
    Available online at: www.sciencedirect.com/science/article/pii/S1877050916301175
 
-  # Cloud-Native Application Security [ Riddhi Parmar- 1977020 ]
+# Cloud-Native Application Security [ Riddhi Parmar- 1977020 ]
    Title: Cloud-Native Application Security
    Authors: Maxim Chernyshev, Zubair Baig, Sherali Zeadally
    Affiliations: Maxim Chernyshev and Zubair Baig, Deakin University
@@ -84,3 +84,9 @@ This is information about research papers that are used in the preparation of in
    Publication detail: Proceedings of IEEE CCIS2012.
 
 # Cloud Migration [ Monika Rani - 1980237 ]
+   Title: Risk Analysis in Cloud Migration: A Systematic Literature Review
+   Authors: B. Maniah, B. Soewito, F. Lumban Gaol, A. A. Al-Rahmi, and A. H. Abdullah
+   Affiliations: Faculty of Computer Science and Information Technology, Universiti Tun Hussein Onn Malaysia; Faculty of Computer Science and Information       Technology, Universitas Sumatera Utara; Faculty of Computer Science and Information Technology, Universitas Kristen Satya Wacana; Faculty of Computing       and Informatics, Universiti Malaysia Sabah; Faculty of Computing and Informatics, Universiti Malaysia Sabah
+   Abstract: Cloud computing has become a popular choice for organizations to store and manage their data. However, migrating to the cloud can pose various     risks and challenges. This study aims to identify the types of risks and risk components in cloud migration using the Systematic Literature Review (SLR)     method. The results of this study are based on 74 selected papers distributed from 2015 to 2020. The study found that the highest trend of risk type is      information security risk, which accounts for 25%. The process of selecting the articles was carried out in stages, resulting in 230 articles. This study    provides insights into the challenges and potential risks involved in migrating to cloud computing and can help organizations mitigate these risks.
+   Publication Detail: Journal of King Saud University - Computer and Information Sciences, Volume 34, Issue 6, November 2022, Pages 3111-3120. Published by    Elsevier B.V. on behalf of King Saud University. This is an open access article under the CC BY-NC-ND license 
+   (http://creativecommons.org/licenses/by-nc-nd/4.0/).
