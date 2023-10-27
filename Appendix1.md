@@ -98,7 +98,7 @@ This is information about research papers that are used in the preparation of in
    by Elsevier B.V. on behalf of King Saud University. This is an open access article under the CC BY-NC-ND license 
    (http://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-   # luckey
+   # Blockchain for Cloud Security [ Lucky Uwode- 1866796 ]
 1. Title: How Blockchain Can Help Enhance the Security and Privacy in Edge Computing?
    Authors: Jinyue Song, Tianbo Gu, Prasant Mohapatra
    Published: December 2021
@@ -118,5 +118,6 @@ This is information about research papers that are used in the preparation of in
    Authors: Not specified
    Published: July 2023
    Source: Journal of Emerging Technologies and Innovative Research (JETIR), Volume 10, Issue 7
-   Abstract: In order to improve data integrity and overall security, this paper investigates how blockchaintechnology might be integrated with cloud          security. Elements like cloud security smart contracts, immutable data storage, provenance, and decentralisedidentity management are covered. The           research analyses the security improvements made possible by this amalgamation, emphasising the advantageous results and pointing out room for development
+   Abstract: In order to improve data integrity and overall security, this paper investigates how blockchaintechnology might be integrated with cloud          security. Elements like cloud security smart contracts, immutable data storage, provenance, and decentralisedidentity management are covered. The           research analyses the security improvements made possible by this amalgamation, emphasising the advantageous results and pointing out room for       
+   development
    
