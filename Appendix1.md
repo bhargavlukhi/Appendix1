@@ -27,10 +27,11 @@ This is information about research papers that are used in the preparation of in
 # Zero Trust Security in Cloud Computing [ Khyati Parmar - 2308312 ]
    Title: Establishing a Zero Trust Strategy in Cloud Computing Environment
    Authors: S. S. S. Sowmya, K. S. Easwarakumar, and S. S. Sreeja
-  Affiliations: Department of Computer Science and Engineering, Amrita School of Engineering, Coimbatore, India
-   Abstract: Cloud computing has become an essential technology for businesses and organizations to store, process, and manage data. However, security and      privacy challenges have emerged as major concerns in cloud computing. Traditional trust management mechanisms are no longer sufficient to address these      challenges. This paper proposes a conceptual zero trust strategy for cloud services, exploring the importance and challenges of trust establishment in       cloud computing. The proposed strategy is based on the principle of "never trust, always verify," and it involves continuous verification of all users,      devices, and applications accessing cloud services. The paper also discusses the benefits of establishing trust in cloud services and how it can be       
+   Affiliations: Department of Computer Science and Engineering, Amrita School of Engineering, Coimbatore, India
+   Abstract: Cloud computing has become an essential technology for businesses and organizations to store, process, and manage data. However, security and     privacy challenges have emerged as major concerns in cloud computing. Traditional trust management mechanisms are no longer sufficient to address these     challenges. This paper proposes a conceptual zero trust strategy for cloud services, exploring the importance and challenges of trust establishment in      cloud computing. The proposed strategy is based on the principle of "never trust, always verify," and it involves continuous verification of all users,     devices, and applications accessing cloud services. The paper also discusses the benefits of establishing trust in cloud services and how it can be 
    achieved.
-   Publication details: 2020 International Conference on Computer Communication and Informatics (ICCCI -2020), Jan. 22 – 24, 2020, Coimbatore, INDIA. ISBN:     978-1-7281-4514-3/20/$31.00 ©2020 IEEE.
+   Publication details: 2020 International Conference on Computer Communication and Informatics (ICCCI -2020), Jan. 22 – 24, 2020, Coimbatore, INDIA. 
+   ISBN:978-1-7281-4514-3/20/$31.00 ©2020 IEEE.
 
 # Data Privacy in Cloud Computing [ Tolulope Odeyemi - 2214061 ]
    Title: Multi-Layer Token Framework for Data Protection in Cloud Computing
@@ -49,7 +50,9 @@ This is information about research papers that are used in the preparation of in
    Title: Identity and Access Management as Security-as-a-Service from Clouds
    Author(s): Deepak H
    Affiliation(s): Not specified
-   Abstract: This article discusses the benefits of implementing Identity and Access Management (IAM) as a cloud service and provides a proof-of-concept        evaluation. The primary concerns of IAM in a cloud environment are addressed, and the advantages of using IAM-as-a-Service (IAM-aaS) are highlighted. The    article concludes with a discussion of the results of the proof-of-concept evaluation, which demonstrate the feasibility and effectiveness of IAM-aaS.
+   Abstract: This article discusses the benefits of implementing Identity and Access Management (IAM) as a cloud service and provides a proof-of-concept       evaluation. The primary concerns of IAM in a cloud environment are addressed, and the advantages of using IAM-as-a-Service (IAM-aaS) are highlighted. 
+   The article concludes with a discussion of the results of the proof-of-concept evaluation, which demonstrate the feasibility and effectiveness 
+   of IAM saaS.
    Publication details:
    
    Title: Identity and Access Management as Security-as-a-Service from Clouds
@@ -69,24 +72,51 @@ This is information about research papers that are used in the preparation of in
    Authors: Maxim Chernyshev, Zubair Baig, Sherali Zeadally
    Affiliations: Maxim Chernyshev and Zubair Baig, Deakin University
    Sherali Zeadally, University of Kentucky
-   Abstract: Insecure cloud-native applications (CNAs) are at high risk of security breaches due to their dynamic nature and complex threat landscape. We       evaluate current security techniques, their pros and cons in CNAs, and identify future research opportunities. Application and API security compromises      are a leading cause of modern data breaches. Many contemporary applications, often built as cloud-native applications (CNAs) using Microservices and         DevOps methodologies, face a growing array of threats, including automated attacks, DDoS attacks, and exploitation of design and code weaknesses.            Developers can mitigate these risks through secure coding practices, proper configuration, and the integration of robust security measures into their 
+   Abstract: Insecure cloud-native applications (CNAs) are at high risk of security breaches due to their dynamic nature and complex threat landscape. We      evaluate current security techniques, their pros and cons in CNAs, and identify future research opportunities. Application and API security compromises     are a leading cause of modern data breaches. Many contemporary applications, often built as cloud-native applications (CNAs) using Microservices and        DevOps methodologies, face a growing array of threats, including automated attacks, DDoS attacks, and exploitation of design and code weaknesses.           Developers can mitigate these risks through secure coding practices, proper configuration, and the integration of robust security measures into their 
    software development lifecycles (SDLCs). Application developers often struggle to strike a balance between speed and security, especially when lacking 
-   security expertise. This is further complicated by heavy reliance on open source dependencies, which can make up a substantial portion, up to 80%, of the 
-   application's codebase in many CNAs.
+   security expertise. This is further complicated by heavy reliance on open source dependencies, which can make up a substantial portion, up to 80%, of
+   the application's codebase in many CNAs.
    Publication details: Published in: Computer ( Volume: 54, Issue: 11, November 2021), Page(s): 47-57, Date of Publication: 25 October 2021
 
  # Cloud Security Risks and Management Framework [ Richa Patel- 2185107 ]
    Title: A RISK MANAGEMENT FRAMEWORK FOR CLOUD COMPUTING
    Author(s): Feng Xie, Yong Peng, Wei Zhao, Dongqing Chen, Xiaoran Wang, Xingmei Huo
    Affiliation(s): China Information Technology Security Evaluation Center, Beijing 100085, China, Beijing Institute of Technology, Beijing 100081, China
-   Abstract: This paper proposes a comprehensive framework consisting of five components to help cloud service providers better understand user requirements    and acquire trust. The framework is designed to address the distrust between users and cloud suppliers, and to mitigate security issues associated with      cloud computing. The basic three factors in risk assessment, assets, threats, and vulnerabilities, are demonstrated in the framework. The proposed    
-   framework is expected to provide a useful tool for cloud service providers to manage risks and enhance security in cloud computing.
+   Abstract: This paper proposes a comprehensive framework consisting of five components to help cloud service providers better understand user 
+   requirements and acquire trust. The framework is designed to address the distrust between users and cloud suppliers, and to mitigate security issues        associated with cloud computing. The basic three factors in risk assessment, assets, threats, and vulnerabilities, are demonstrated in the framework. 
+   The proposed framework is expected to provide a useful tool for cloud service providers to manage risks and enhance security in cloud computing.
    Publication detail: Proceedings of IEEE CCIS2012.
 
 # Cloud Migration [ Monika Rani - 1980237 ]
    Title: Risk Analysis in Cloud Migration: A Systematic Literature Review
    Authors: B. Maniah, B. Soewito, F. Lumban Gaol, A. A. Al-Rahmi, and A. H. Abdullah
-   Affiliations: Faculty of Computer Science and Information Technology, Universiti Tun Hussein Onn Malaysia; Faculty of Computer Science and Information       Technology, Universitas Sumatera Utara; Faculty of Computer Science and Information Technology, Universitas Kristen Satya Wacana; Faculty of Computing       and Informatics, Universiti Malaysia Sabah; Faculty of Computing and Informatics, Universiti Malaysia Sabah
-   Abstract: Cloud computing has become a popular choice for organizations to store and manage their data. However, migrating to the cloud can pose various     risks and challenges. This study aims to identify the types of risks and risk components in cloud migration using the Systematic Literature Review (SLR)     method. The results of this study are based on 74 selected papers distributed from 2015 to 2020. The study found that the highest trend of risk type is      information security risk, which accounts for 25%. The process of selecting the articles was carried out in stages, resulting in 230 articles. This study    provides insights into the challenges and potential risks involved in migrating to cloud computing and can help organizations mitigate these risks.
-   Publication Detail: Journal of King Saud University - Computer and Information Sciences, Volume 34, Issue 6, November 2022, Pages 3111-3120. Published by    Elsevier B.V. on behalf of King Saud University. This is an open access article under the CC BY-NC-ND license 
+   Affiliations: Faculty of Computer Science and Information Technology, Universiti Tun Hussein Onn Malaysia; Faculty of Computer Science and Information      Technology, Universitas Sumatera Utara; Faculty of Computer Science and Information Technology, Universitas Kristen Satya Wacana; Faculty of Computing      and Informatics, Universiti Malaysia Sabah; Faculty of Computing and Informatics, Universiti Malaysia Sabah
+   Abstract: Cloud computing has become a popular choice for organizations to store and manage their data. However, migrating to the cloud can pose various    risks and challenges. This study aims to identify the types of risks and risk components in cloud migration using the Systematic Literature Review 
+   (SLR)method. The results of this study are based on 74 selected papers distributed from 2015 to 2020. The study found that the highest trend of risk        type is in for mation security risk, which accounts for 25%. The process of selecting the articles was carried out in stages, resulting in 230 articles.    This study provides insights into the challenges and potential risks involved in migrating to cloud computing and can help organizations mitigate 
+   these risks.
+   Publication Detail: Journal of King Saud University - Computer and Information Sciences, Volume 34, Issue 6, November 2022, Pages 3111-3120. Published 
+   by Elsevier B.V. on behalf of King Saud University. This is an open access article under the CC BY-NC-ND license 
    (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+   # luckey
+1. Title: How Blockchain Can Help Enhance the Security and Privacy in Edge Computing?
+   Authors: Jinyue Song, Tianbo Gu, Prasant Mohapatra
+   Published: December 2021
+   Source: 2021 IEEE/ACM Symposium on Edge Computing (SEC)
+   Abstract: This paper discusses how edge computing networks pose a threat to data privacy and security, and then looks at how blockchain technology may
+   mitigate those risks. It explores the potential advantages of combining edge computing with blockchain, with an eye on protecting user privacy and 
+   retaining data integrity. Insights on how blockchainmay improve edge computing security are provided by the research.
+ 
+2. Title: Enhancing Blockchain Security in Cloud Computing with IoT Environment Using ECIES and Cryptography Hash Algorithm
+   Authors: P. Velmurugadass, S. Dhanasekaran, S. ShasiAnand, V. Vasudevan
+   Published: 2021
+   Source: Materials Today: Proceedings, Volume 37
+   Abstract: In the context of Internet of Things (IoT) ecosystems, this research focuses on improving blockchain security in cloud computing. It describes    a system for protecting data in a cloud-based, SDN environment using ECIES encryption and cryptographic hash methods. In this paper, we explore the
+   potential of blockchain technology in three distinct areas: user registration; data encryption; and evidence collection. Blockchain's position in cloud    computing security may be expanded as a result of the research results.
+ 
+3. Title: Blockchain Technology for Cloud Security and Data Integrity
+   Authors: Not specified
+   Published: July 2023
+   Source: Journal of Emerging Technologies and Innovative Research (JETIR), Volume 10, Issue 7
+   Abstract: In order to improve data integrity and overall security, this paper investigates how blockchaintechnology might be integrated with cloud          security. Elements like cloud security smart contracts, immutable data storage, provenance, and decentralisedidentity management are covered. The           research analyses the security improvements made possible by this amalgamation, emphasising the advantageous results and pointing out room for development
+   
