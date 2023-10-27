@@ -82,3 +82,5 @@ This is information about research papers that are used in the preparation of in
    Abstract: This paper proposes a comprehensive framework consisting of five components to help cloud service providers better understand user requirements    and acquire trust. The framework is designed to address the distrust between users and cloud suppliers, and to mitigate security issues associated with      cloud computing. The basic three factors in risk assessment, assets, threats, and vulnerabilities, are demonstrated in the framework. The proposed    
    framework is expected to provide a useful tool for cloud service providers to manage risks and enhance security in cloud computing.
    Publication detail: Proceedings of IEEE CCIS2012.
+
+# Cloud Migration [ Monika Rani - 1980237 ]
