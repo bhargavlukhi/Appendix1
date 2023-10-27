@@ -74,3 +74,11 @@ This is information about research papers that are used in the preparation of in
    security expertise. This is further complicated by heavy reliance on open source dependencies, which can make up a substantial portion, up to 80%, of the 
    application's codebase in many CNAs.
    Publication details: Published in: Computer ( Volume: 54, Issue: 11, November 2021), Page(s): 47-57, Date of Publication: 25 October 2021
+
+ # Cloud Security Risks and Management Framework [ Richa Patel- 2185107 ]
+   Title: A RISK MANAGEMENT FRAMEWORK FOR CLOUD COMPUTING
+   Author(s): Feng Xie, Yong Peng, Wei Zhao, Dongqing Chen, Xiaoran Wang, Xingmei Huo
+   Affiliation(s): China Information Technology Security Evaluation Center, Beijing 100085, China, Beijing Institute of Technology, Beijing 100081, China
+   Abstract: This paper proposes a comprehensive framework consisting of five components to help cloud service providers better understand user requirements    and acquire trust. The framework is designed to address the distrust between users and cloud suppliers, and to mitigate security issues associated with      cloud computing. The basic three factors in risk assessment, assets, threats, and vulnerabilities, are demonstrated in the framework. The proposed    
+   framework is expected to provide a useful tool for cloud service providers to manage risks and enhance security in cloud computing.
+   Publication detail: Proceedings of IEEE CCIS2012.
