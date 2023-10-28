@@ -137,6 +137,13 @@ This is information about research papers that are used in the preparation of in
    Publication Details:
    Journal: International Journal of Electrical and Computer Engineering (IJECE)
    Volume: 11
+
+   # Container Security [ Vansh Mandanka - 2179670]
+   Title: Container Security: An Extensive Roadmap
+   Authors: Suganthi Subramanian, Prasad B Honnavalli, Shylaja S S
+   Affiliations: Department of CSE, PES University, Bangalore, India
+   Abstract: This paper provides an extensive roadmap for container security, including an analysis of existing access control mechanisms and challenges       encountered during architecture modeling. The paper also suggests solutions to address present security concerns.
+   Publication details: Unfortunately, the PDF file does not provide specific publication details such as the name of the journal or conference where the      paper was published.
    Issue: 5
    Pages: 4458-4470
    Publication Date: October 2021
