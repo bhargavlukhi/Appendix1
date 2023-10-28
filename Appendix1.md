@@ -120,4 +120,26 @@ This is information about research papers that are used in the preparation of in
    Source: Journal of Emerging Technologies and Innovative Research (JETIR), Volume 10, Issue 7
    Abstract: In order to improve data integrity and overall security, this paper investigates how blockchaintechnology might be integrated with cloud          security. Elements like cloud security smart contracts, immutable data storage, provenance, and decentralisedidentity management are covered. The           research analyses the security improvements made possible by this amalgamation, emphasising the advantageous results and pointing out room for       
    development
+
+   # Al and machine learning in cloud [ Manasa Kuchipudi - 2185108 ]
+   Title: Machine Learning and Cloud Computing: Survey of Distributed and SaaS Solutions
+   Author: Daniel Pop
+   Affiliation: Institute e-Austria Timi¸soara, Romˆania
+   Abstract: This paper provides a survey of distributed and Software-as-a-Service (SaaS) solutions for machine learning (ML) in the cloud. The survey         covers popular statistics tools and libraries deployed in the cloud, libraries of distributed implementations for ML algorithms, and on-premise             deployments of complex systems for data analytics and data mining. The paper also discusses ML as Software-as-a-Service, with several BigData start-ups     already opening their solutions to the market.
+   Publication details: International Journal of Machine Learning and Computing, Vol. 4, No. 3, June 2014.
+
+   Title: Role of AI in Cloud Computing, IoT, and SDN: Reliability and Scalability Issues
+   Authors: Mohammad Riyaz Belgaum et al.
+   Affiliations: Various institutions in Malaysia, Oman, and Pakistan
+   Abstract: This paper discusses the challenges faced by cloud computing, IoT, and SDN and how AI can be used to improve their reliability and       
+   scalability. The authors suggest that future research should focus on enhancing security and interaction in these technologies. The paper was published 
+   in the International Journal of Electrical and Computer Engineering in October 2021.
+   Publication Details:
+   Journal: International Journal of Electrical and Computer Engineering (IJECE)
+   Volume: 11
+   Issue: 5
+   Pages: 4458-4470
+   Publication Date: October 2021
+   ISSN: 2088-8708
+   DOI: 10.11591/ijece.v11i5.pp4458-4470
    
